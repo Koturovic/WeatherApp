@@ -6,7 +6,7 @@ public class AppLauncher {
             @Override
             public void run() {
                 // display out app
-               // new WeatherAppGui().setVisible(true);
+                new WeatherAppGui().setVisible(true);
                 System.out.println("");
             }
         });
