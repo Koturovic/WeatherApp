@@ -8,6 +8,7 @@ public class AppLauncher {
                 // display out app
                 new WeatherAppGui().setVisible(true);
                 System.out.println("");
+                System.out.println("hahahah");
             }
         });
     }
